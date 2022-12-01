@@ -1,0 +1,5 @@
+Day 1 Part 1
+ggO:%s/\v\d+/&:%s/\v^$/o0/:%join!A:sort! ngg"+yyI-> dd@"
+
+Day 1 Part 2
+ggO:%s/\v\d+/&:%s/\v^$/o0/:%join!A:sort! nggJr+Jr+yyO=""+yyI-> dd@"
